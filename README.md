@@ -22,7 +22,7 @@
 | Project | Tools | Business Area |
 |---------|-------|---------------|
 | [🛒 Retail Sales SQL Analysis](https://github.com/dhrumi01/retail-sales-sql-analysis) | SQL | Profitability & Discount Analysis |
-| [📚Book Recognition System — ASU Library | Python, BERT, ResNet, EasyOCR | Computer Vision + NLP |]
+| 📚Book Recognition System — ASU Library | Python, BERT, ResNet, EasyOCR | Computer Vision + NLP |]
 | [👥 Customer Segmentation Analysis](https://github.com/dhrumi01/-Customer-Segmentation-Analysis) | Python, Pandas | Marketing Analytics |
 | [📊 Media Analytics Dashboard](https://github.com/dhrumi01/social-media-analytics-tableau) | Tableau | Engagement & Platform Analysis |
 | [📈 Microsoft Stock Risk Analysis](https://github.com/dhrumi01/microsoft-stock-analysis-tableau) | Tableau | Financial Risk & Performance |
