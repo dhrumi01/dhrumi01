@@ -24,7 +24,7 @@
 | [🛒 Retail Sales SQL Analysis](https://github.com/dhrumi01/retail-sales-sql-analysis) | SQL | Profitability & Discount Analysis |
 | [👥 Customer Segmentation Analysis](https://github.com/dhrumi01/-Customer-Segmentation-Analysis) | Python, Pandas | Marketing Analytics |
 | [📊 Media Analytics Dashboard](https://github.com/dhrumi01/social-media-analytics-tableau) | Tableau | Campaign ROI |
-
+| [📈 Microsoft Stock Risk Analysis](https://github.com/dhrumi01/microsoft-stock-analysis-tableau) | Tableau | Financial Risk & Performance |
 ---
 
 ## 📫 Connect With Me
