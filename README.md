@@ -4,7 +4,7 @@
 🎓 MS Business Analytics — Arizona State University (Dec 2025)  
 🔍 Specializing in Marketing Analytics, Business Intelligence & Data Storytelling  
 📍 Open to Full-Time Analyst Roles | Authorized to work in the US  
-📩 dhrumibrijeshkansara@gmail.com
+📩 dkansar4@asu.edu
 
 ---
 
