@@ -26,7 +26,7 @@
 | [👥 Customer Segmentation Analysis](https://github.com/dhrumi01/-Customer-Segmentation-Analysis) | Python, Pandas | Marketing Analytics |
 | [📊 Media Analytics Dashboard](https://github.com/dhrumi01/social-media-analytics-tableau) | Tableau | Engagement & Platform Analysis |
 | [📈 Microsoft Stock Risk Analysis](https://github.com/dhrumi01/microsoft-stock-analysis-tableau) | Tableau | Financial Risk & Performance |
-| [🎵 Spotify Freemium Paywall A/B Test](https://github.com/dhrumi01/spotify-ab-test-analysis) | Python, SciPy, Pandas | Product Analytics & Conversion Optimization |
+| [🎵 Spotify Freemium Paywall A/B Test](https://github.com/dhrumi01/Spotify-Freemium-Paywall-) | Python, SciPy, Pandas | Product Analytics & Conversion Optimization |
 ---
 
 ## 📫 Connect With Me
