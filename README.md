@@ -28,6 +28,7 @@
 | [📈 Microsoft Stock Risk Analysis](https://github.com/dhrumi01/microsoft-stock-analysis-tableau) | Tableau | Financial Risk & Performance |
 | [🎵 Spotify Freemium Paywall A/B Test](https://github.com/dhrumi01/Spotify-Freemium-Paywall-) | Python, SciPy, Pandas | Product Analytics & Conversion Optimization |
  [🎯 Spotify Track Traction Predictor](https://github.com/dhrumi01/spotify-track-traction-predictor) | Python, Sklearn, Matplotlib | ML & Predictive Analytics |
+| [📦 Merchant Order Analytics Pipeline](https://github.com/dhrumi01/merchant-order-analytics) | Python, Snowflake, dbt, SQL, Power BI | SLA Monitoring & Merchant Performance |
 ---
 
 ## 📫 Connect With Me
